@@ -10,8 +10,7 @@ The analysis focuses on:
 - Safety Car and Virtual Safety Car periods
 - Pit-stop timing
 - Late-race pace compared with Lando Norris, George Russell and Lewis Hamilton
-- The late-race gap between Sainz and Norris
-- 
+- The late-race gap between Carlos Sainz and Lando Norris
 ## Data Source
 Race timing, lap, stint, pit-stop, race-control and interval data were retrieved using the OpenF1 API.
 
